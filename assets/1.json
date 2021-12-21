@@ -1,0 +1,19 @@
+{
+    "name": "SHAQ 1",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5sSbhWw8u11tJfgpJ41gH3wo1BeAAKgWjUgZQsqdKYjh",
+          "share": 100
+        }
+      ]
+    }
+  }
